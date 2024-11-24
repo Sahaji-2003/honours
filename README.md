@@ -1,1 +1,1 @@
-# honours
+# Honours Project
